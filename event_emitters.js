@@ -1,9 +1,3 @@
-/*The .apply() method automatically invokes or executes a function.
-The first parameter is the object that you want to invoke or execute
-The second parameter is the arguments that you want to pass into that function.
-
-*/
-
 
 /* ES5
 ---------------------------------------------------------------*/
